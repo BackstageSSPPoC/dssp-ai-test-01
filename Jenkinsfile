@@ -176,7 +176,7 @@ pipeline {
                 echo "APP_NAME=$APP_NAME"
                 echo "DOCKER_IMAGE=$DOCKER_IMAGE"
                 echo "IMAGE_TAG=$IMAGE_TAG"
-                // '''
+                '''
             }
         }
 
